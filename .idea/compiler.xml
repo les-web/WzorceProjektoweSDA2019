@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="javabdg8wzorcprojektowe" />
+        <module name="javabdg8-wzorcprojektowe" />
       </profile>
     </annotationProcessing>
   </component>
